@@ -57,7 +57,7 @@
 
 /* .contact-info { border-bottom: 2px solid #1B2631; } */
 .left-title {
-    color: #eeeeee;
+    color: #f3eded;
     font-size: 20px;
 }
 
@@ -68,7 +68,7 @@
 .contact-info ul li,
 .references ul li {
     padding: .4rem 0;
-    color: #eeeeee;
+    color: #f3e8e8;
 }
 
 .contact-info ul li i,
